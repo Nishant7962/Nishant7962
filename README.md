@@ -217,10 +217,6 @@ Performance-critical dashboard serving a massive user base.
 ## ⏱️ Weekly Coding Stats *(via WakaTime)*
 
 <!--START_SECTION:waka-->
-```text
-💡 Setup: Install WakaTime extension in VS Code → sign up at wakatime.com
-         → your live weekly coding stats will appear here automatically!
-```
 <!--END_SECTION:waka-->
 
 ---
