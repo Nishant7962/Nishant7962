@@ -284,10 +284,10 @@ Performance-critical dashboard serving a massive user base.
 ║                    MY  AWS  ECOSYSTEM                        ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   ┌─────────┐    ┌────────────┐    ┌──────┐    ┌─────────┐  ║
-║   │   EC2   │───▶│ CloudFront │───▶│  S3  │◀───│ Cognito │  ║
-║   │ Compute │    │  CDN+Cache │    │ Files│    │  Auth   │  ║
-║   └─────────┘    └────────────┘    └──────┘    └─────────┘  ║
+║   ┌─────────┐    ┌────────────┐    ┌──────┐    ┌─────────┐   ║
+║   │   EC2   │──▶│ CloudFront  │──▶│  S3  │◀──│ Cognito │   ║
+║   │ Compute │    │  CDN+Cache │    │ Files│    │  Auth   │   ║
+║   └─────────┘    └────────────┘    └──────┘    └─────────┘   ║ 
 ║                                       │              │       ║
 ║                              Presigned URLs    PKCE + Tokens ║
 ║                              Direct Uploads   Session Mgmt   ║
