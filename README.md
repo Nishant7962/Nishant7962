@@ -46,11 +46,14 @@ const nishant: Developer = {
 
 ---
 
-## 🏆 Trophy Cabinet
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nishant7962&theme=tokyonight&no-frame=false&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+![Commits](https://img.shields.io/badge/Total_Commits-Active-00D9FF?style=for-the-badge&logo=git&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-1%2B_Years-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects-4%2B_Built-4EA94B?style=for-the-badge&logo=github&logoColor=white)
+![Users](https://img.shields.io/badge/Users_Served-10K%2B-F7DF1E?style=for-the-badge&logo=people&logoColor=black)
 
 </div>
 
