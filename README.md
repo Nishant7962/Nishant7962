@@ -225,9 +225,13 @@ Performance-critical dashboard serving a massive user base.
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
+
+> 🎧 *Always coding with music on — Spotify keeps the flow going!*
 
 </div>
+
+---
 
 ---
 
