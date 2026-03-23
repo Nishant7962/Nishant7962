@@ -220,7 +220,9 @@ Performance-critical dashboard serving a massive user base.
 ## ⏱️ Weekly Coding Stats *(via WakaTime)*
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -288,7 +290,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nishant7962/Nishant7962/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2026 01:48:02 UTC
+ Last Updated on 23/03/2026 01:49:21 UTC
 <!--END_SECTION:waka-->
 
 ---
