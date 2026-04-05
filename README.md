@@ -222,7 +222,7 @@ Performance-critical dashboard serving a massive user base.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -263,18 +263,16 @@ Sunday                   2 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     8 mins              ██████████████░░░░░░░░░░░   57.95 % 
-Git Config               5 mins              ███████████░░░░░░░░░░░░░░   42.05 % 
+JSON                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          8 mins              ██████████████░░░░░░░░░░░   57.62 % 
-Client_App_prod_code     5 mins              ███████████░░░░░░░░░░░░░░   42.38 % 
+Unknown Project          2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -292,7 +290,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nishant7962/Nishant7962/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 01:45:55 UTC
+ Last Updated on 05/04/2026 01:57:31 UTC
 <!--END_SECTION:waka-->
 
 ---
