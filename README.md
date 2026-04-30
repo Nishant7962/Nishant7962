@@ -263,16 +263,16 @@ Sunday                   2 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -290,7 +290,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nishant7962/Nishant7962/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2026 02:28:04 UTC
+ Last Updated on 30/04/2026 02:28:53 UTC
 <!--END_SECTION:waka-->
 
 ---
