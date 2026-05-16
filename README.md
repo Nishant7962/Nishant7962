@@ -220,6 +220,8 @@ Performance-critical dashboard serving a massive user base.
 ## ⏱️ Weekly Coding Stats *(via WakaTime)*
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -234,6 +236,47 @@ Performance-critical dashboard serving a massive user base.
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌆 Daytime                7 commits           ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+🌃 Evening                12 commits          ████████████░░░░░░░░░░░░░   46.15 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                4 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Thursday                 3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Friday                   6 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Saturday                 11 commits          ███████████░░░░░░░░░░░░░░   42.31 % 
+Sunday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 0 secs              ██████████████░░░░░░░░░░░   55.31 % 
+Git Config               0 secs              ███████████░░░░░░░░░░░░░░   44.69 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          0 secs              ██████████████░░░░░░░░░░░   55.31 % 
+ClinNexus Angular        0 secs              ███████████░░░░░░░░░░░░░░   44.69 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -249,7 +292,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nishant7962/Nishant7962/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 02:38:25 UTC
+ Last Updated on 16/05/2026 02:28:12 UTC
 <!--END_SECTION:waka-->
 
 ---
