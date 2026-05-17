@@ -220,7 +220,7 @@ Performance-critical dashboard serving a massive user base.
 ## ⏱️ Weekly Coding Stats *(via WakaTime)*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -263,18 +263,18 @@ Sunday                   2 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 0 secs              ██████████████░░░░░░░░░░░   55.31 % 
-Git Config               0 secs              ███████████░░░░░░░░░░░░░░   44.69 % 
+Markdown                 2 mins              ███████████████████████░░   91.92 % 
+Git Config               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ██████████████░░░░░░░░░░░   55.31 % 
-ClinNexus Angular        0 secs              ███████████░░░░░░░░░░░░░░   44.69 % 
+Unknown Project          2 mins              ███████████████████████░░   91.92 % 
+ClinNexus Angular        0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -292,7 +292,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nishant7962/Nishant7962/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 02:28:12 UTC
+ Last Updated on 17/05/2026 02:35:29 UTC
 <!--END_SECTION:waka-->
 
 ---
