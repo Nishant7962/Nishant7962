@@ -263,18 +263,18 @@ Sunday                   2 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 mins              ███████████████████████░░   91.92 % 
-Git Config               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Markdown                 1 min               ███████████████████████░░   91.02 % 
+Git Config               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              ███████████████████████░░   91.92 % 
-ClinNexus Angular        0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Unknown Project          1 min               ███████████████████████░░   91.02 % 
+ClinNexus Angular        0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -292,7 +292,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nishant7962/Nishant7962/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 02:43:50 UTC
+ Last Updated on 21/05/2026 02:46:12 UTC
 <!--END_SECTION:waka-->
 
 ---
