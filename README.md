@@ -220,6 +220,8 @@ Performance-critical dashboard serving a massive user base.
 ## ⏱️ Weekly Coding Stats *(via WakaTime)*
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -234,11 +236,50 @@ Performance-critical dashboard serving a massive user base.
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌆 Daytime                7 commits           ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+🌃 Evening                12 commits          ████████████░░░░░░░░░░░░░   46.15 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                4 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Thursday                 3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Friday                   6 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Saturday                 11 commits          ███████████░░░░░░░░░░░░░░   42.31 % 
+Sunday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+PowerShell               1 min               █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 min               █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          1 min               █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 min               █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               4 repos             █████████████████░░░░░░░░   66.67 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
@@ -249,7 +290,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nishant7962/Nishant7962/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:06:07 UTC
+ Last Updated on 26/07/2026 02:10:36 UTC
 <!--END_SECTION:waka-->
 
 ---
