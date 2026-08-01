@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=🚀+Building+pixel-perfect+UIs+that+scale;⚡+React+%7C+TypeScript+%7C+Node.js+%7C+AWS;🤖+Integrating+GenAI+into+real+products;📊+Served+10%2C000%2B+users+in+production;✨+Turning+complex+problems+into+clean+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=🚀+Building+pixel-perfect+UIs+that+scale;⚡+Angular+%7C+TypeScript+%7C+Node.js+%7C+AWS;🤖+Integrating+GenAI+into+real+products;📊+Served+10%2C000%2B+users+in+production;✨+Turning+complex+problems+into+clean+code)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,7 @@
 ```typescript
 const nishant: Developer = {
   name:        "Nishant Ghadge",
-  role:        "Frontend Developer (React.js | MEAN)",
+  role:        "Frontend Developer (Angular.js | MEAN)",
   company:     "Zimetrics Technology, Pune 🇮🇳",
   education:   "B.Tech CSE · 80% · 2023",
   experience:  "June 2024 – Present",
@@ -64,7 +64,7 @@ const nishant: Developer = {
 <div align="center">
 
 ### 🖥️ Frontend — *Where I live*
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=Angular&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -82,9 +82,9 @@ const nishant: Developer = {
 
 ### 🗂️ State Management
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=reactivex&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=Angularivex&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=Angularivex&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=Angular&logoColor=black)
 
 ### ☁️ Cloud · DevOps · Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
@@ -106,7 +106,7 @@ const nishant: Developer = {
 ## 📊 Skill Proficiency
 
 ```
-React.js / JavaScript    ████████████████████░   95%
+Angular.js / JavaScript    ████████████████████░   95%
 TypeScript               ████████████████░░░░░   80%
 Node.js / Express        ███████████████░░░░░░   75%
 AWS (EC2·S3·Cognito)     ██████████████░░░░░░░   70%
@@ -124,7 +124,7 @@ Docker / DevOps          ████████░░░░░░░░░░�
 <td width="50%" valign="top">
 
 ### 📱 ClientWeb App — Mobile SPA
-> **React.js · Node.js · AWS · OpenCV**
+> **Angular.js · Node.js · AWS · OpenCV**
 
 Scalable offline-first mobile SPA with enterprise-grade security.
 
@@ -135,13 +135,13 @@ Scalable offline-first mobile SPA with enterprise-grade security.
 - 🔲 Barcode scanning → auto tracking ID extraction
 - 🖼️ Canvas API affine transformations (rotate, scale, translate)
 
-`React` `Node.js` `AWS S3` `Cognito` `Tailwind` `OpenCV`
+`Angular` `Node.js` `AWS S3` `Cognito` `Tailwind` `OpenCV`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 AI Conversational Assistant
-> **React.js · Node.js · LLM APIs · AWS**
+> **Angular.js · Node.js · LLM APIs · AWS**
 
 Real-time Q&A web app powered by Generative AI.
 
@@ -152,7 +152,7 @@ Real-time Q&A web app powered by Generative AI.
 - 🚀 Deployed on AWS — scalable & reliable
 - 📊 RxJS + local storage state optimisation
 
-`React` `GenAI` `LLM APIs` `AWS` `RxJS` `Node.js`
+`Angular` `GenAI` `LLM APIs` `AWS` `RxJS` `Node.js`
 
 </td>
 </tr>
@@ -177,7 +177,7 @@ High-fidelity shipping label validation platform.
 <td width="50%" valign="top">
 
 ### 📊 High-Traffic Dashboard
-> **React.js · Redux · TypeScript · 10K+ Users**
+> **Angular.js · Redux · TypeScript · 10K+ Users**
 
 Performance-critical dashboard serving a massive user base.
 
@@ -188,7 +188,7 @@ Performance-critical dashboard serving a massive user base.
 - 🧩 Modular reusable component architecture
 - 👨‍🏫 Mentored junior devs, improved team velocity
 
-`React` `Redux` `TypeScript` `ESLint` `Jest`
+`Angular` `Redux` `TypeScript` `ESLint` `Jest`
 
 </td>
 </tr>
