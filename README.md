@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nishant%20Ghadge&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%7C%20MERN%20Stack%20%7C%20AWS%20%7C%20GenAI&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nishant%20Ghadge&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%7C%20MEAN%20Stack%20%7C%20AWS%20%7C%20GenAI&descAlignY=55&descSize=16" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 ```typescript
 const nishant: Developer = {
   name:        "Nishant Ghadge",
-  role:        "Frontend Developer (React.js | MERN)",
+  role:        "Frontend Developer (React.js | MEAN)",
   company:     "Zimetrics Technology, Pune 🇮🇳",
   education:   "B.Tech CSE · 80% · 2023",
   experience:  "June 2024 – Present",
@@ -160,7 +160,7 @@ Real-time Q&A web app powered by Generative AI.
 <td width="50%" valign="top">
 
 ### 📋 Reviewer App — Shipping Dashboard
-> **Angular · MERN APIs · AWS Cognito**
+> **Angular · MEAN APIs · AWS Cognito**
 
 High-fidelity shipping label validation platform.
 
