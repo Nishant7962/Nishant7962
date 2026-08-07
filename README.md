@@ -220,10 +220,6 @@ Performance-critical dashboard serving a massive user base.
 ## ⏱️ Weekly Coding Stats *(via WakaTime)*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2038%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -238,51 +234,6 @@ Performance-critical dashboard serving a massive user base.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                6 commits           █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-🌆 Daytime                7 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌃 Evening                14 commits          ████████████░░░░░░░░░░░░░   50.00 % 
-🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                4 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Thursday                 3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Friday                   6 commits           █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Saturday                 13 commits          ████████████░░░░░░░░░░░░░   46.43 % 
-Sunday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -298,7 +249,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nishant7962/Nishant7962/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 02:00:15 UTC
+ Last Updated on 07/08/2026 02:22:20 UTC
 <!--END_SECTION:waka-->
 
 ---
